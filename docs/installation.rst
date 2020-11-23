@@ -1,51 +1,26 @@
 .. highlight:: shell
 
 ============
-Installation
+Instalação
 ============
 
-
-Stable release
---------------
-
-To install MeuJogo, run this command in your terminal:
+Para instalar o MeuJogo API, execute o comando:
 
 .. code-block:: console
 
     $ pip install meujogo
 
-This is the preferred method to install MeuJogo, as it will always install the most recent stable release.
+Este é o método preferido para instalar o MeuJogo API, pois ele sempre instalará a versão estável mais recente.
 
-If you don't have `pip`_ installed, this `Python installation guide`_ can guide
-you through the process.
+Se você não tem `pip`_ instalado, este `guia de instalação do Python`_ pode te ajudar com isso.
 
 .. _pip: https://pip.pypa.io
-.. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
+.. _guia de instalação do Python: http://docs.python-guide.org/en/latest/starting/installation/
 
 
-From sources
+Codigo Fonte
 ------------
 
-The sources for MeuJogo can be downloaded from the `Github repo`_.
-
-You can either clone the public repository:
-
-.. code-block:: console
-
-    $ git clone git://github.com/jodaltro/meujogo
-
-Or download the `tarball`_:
-
-.. code-block:: console
-
-    $ curl -OJL https://github.com/jodaltro/meujogo/tarball/master
-
-Once you have a copy of the source, you can install it with:
-
-.. code-block:: console
-
-    $ python setup.py install
-
+O codidos do MeuJogo API podem ser baixados do  `repositório Github `_.
 
 .. _Github repo: https://github.com/jodaltro/meujogo
-.. _tarball: https://github.com/jodaltro/meujogo/tarball/master

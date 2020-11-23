@@ -1,8 +1,8 @@
 =======
-Credits
+Creditos
 =======
 
-Development Lead
+Desenvolvedor
 ----------------
 
 * Jodaltro Ricco Cardoso <jodaltrorcardoso@aluno.santoangelo.uri.br>
